@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm Ishayu Shikhare — an ECE undergrad at Carnegie Mellon University minoring in Artificial Intelligence 
+## Hi 
+I'm Ishayu Shikhare, an ECE undergrad at Carnegie Mellon University minoring in Artificial Intelligence 
 
 I’m particularly interested in:
 
