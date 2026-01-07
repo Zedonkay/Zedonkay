@@ -1,2 +1,2 @@
 ## Ishayu Shikhare  
-I like robots
+Building safer, adaptable autonomous robots
